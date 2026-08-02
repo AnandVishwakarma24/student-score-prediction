@@ -1,0 +1,17 @@
+EmployeeID,Name,Age,Department,Salary,JoinDate,PerformanceScore,City
+101,Ravi Sharma,29,Engineering,55000,15-03-2019,4.2,Ahmedabad
+102,Priya Patel,,Marketing,48000,01-06-2020,3.8,Surat
+103,Aman Gupta,35,Engineering,,23-11-2018,4.5,
+104,Neha Singh,41,,62000,10-01-2017,,Vadodara
+105,,28,Sales,39000,05-09-2021,3.1,Rajkot
+106,Karan Mehta,33,Engineering,58000,,4,Ahmedabad
+107,Sneha Joshi,26,Marketing,45000,14-02-2022,,Surat
+108,Vikram Rao,,Sales,41000,19-07-2020,3.6,
+109,Anjali Desai,38,Finance,67000,30-05-2016,4.3,Vadodara
+110,Rohit Verma,31,,53000,08-08-2019,3.9,Ahmedabad
+111,Meera Iyer,45,Finance,,01-12-2015,4.7,Rajkot
+112,,,,,,,
+113,Sanjay Kumar,27,Sales,,17-04-2021,3.3,Surat
+114,Divya Nair,,Engineering,60000,25-10-2018,,Ahmedabad
+115,Arjun Reddy,36,Marketing,49000,,3.5,Vadodara
+116,Pooja Shah,30,Finance,64000,12-06-2019,4.1,
