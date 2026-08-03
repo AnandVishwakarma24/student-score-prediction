@@ -1,0 +1,12 @@
+ID,Name,Age,Salary,City
+1,Anand,22.0,25000.0,Ahmedabad
+2,Vishal,29.555555555555557,30000.0,Surat
+3,Rahul,25.0,41000.0,Mumbai
+4,Anand,22.0,25000.0,Ahmedabad
+5,,24.0,28000.0,Delhi
+6,Karan,33.0,58000.0,Ahmedabad
+7,Sneha,26.0,45000.0,Ahmedabad
+8,Vikram,29.555555555555557,41000.0,Surat
+9,Anjali,38.0,67000.0,Vadodara
+10,Rohit,31.0,53000.0,Ahmedabad
+11,Meera,45.0,41000.0,Rajkot
