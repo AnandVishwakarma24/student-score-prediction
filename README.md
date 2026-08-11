@@ -37,20 +37,20 @@ This internship project aims to:
 
 ## 📅 Internship Progress
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| 1 | Environment Setup | ✅ Completed |
-| 2 | Python Basics | ✅ Completed |
-| 3 | NumPy | ✅ Completed |
-| 4 | Pandas | ✅ Completed |
-| 5 | Data Cleaning | ✅ Completed |
-| 6 | Data Visualization | ✅ Completed |
-| 7 | Machine Learning Basics | ✅ Completed |
-| 8 | Model Building | ✅ Completed |
-| 9 | Prediction | ✅ Completed |
-| 10 | Model Evaluation | ✅ Completed |
-| 11 | Prediction Application | ✅ Completed |
-| 12 | Project Enhancement | ✅ Completed |
+| Day | Topic                   | Status       |
+| --- | ----------------------- | ------------ |
+| 1   | Environment Setup       | ✅ Completed |
+| 2   | Python Basics           | ✅ Completed |
+| 3   | NumPy                   | ✅ Completed |
+| 4   | Pandas                  | ✅ Completed |
+| 5   | Data Cleaning           | ✅ Completed |
+| 6   | Data Visualization      | ✅ Completed |
+| 7   | Machine Learning Basics | ✅ Completed |
+| 8   | Model Building          | ✅ Completed |
+| 9   | Prediction              | ✅ Completed |
+| 10  | Model Evaluation        | ✅ Completed |
+| 11  | Prediction Application  | ✅ Completed |
+| 12  | Project Enhancement     | ✅ Completed |
 
 ---
 
