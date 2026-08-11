@@ -50,7 +50,7 @@ This internship project aims to:
 | 9   | Prediction              | ✅ Completed |
 | 10  | Model Evaluation        | ✅ Completed |
 | 11  | Prediction Application  | ✅ Completed |
-| 12  | Project Enhancement     | ✅ Completed |
+
 
 ---
 
